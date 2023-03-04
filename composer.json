@@ -2,6 +2,7 @@
   "name": "xwildfire/react-cache-filesystem",
   "description": "Store cache items on the filesystem",
   "license": "MIT",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "Cees-Jan Kiewiet",
